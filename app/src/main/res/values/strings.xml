@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="title_schedule_detail">Schedule Detail</string>
+    <string name="content_authority" translatable="false">com.github.xzwj87.todolist</string>
+    <string name="title_activity_add_fragment" translatable="false">AddFragmentActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Search title and detail</string>
+    <string name="undo">Undo</string>
+    <string name="marked_done">Marked done</string>
+    <string name="marked_undone">Marked undone</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="schedule_title_hint">Enter titles, people and places&#8230;</string>
+    <string name="schedule_note_hint">Add note</string>
+    <string name="schedule_save">Save</string>
+    <string name="schedule_all_day">All day</string>
+    <string name="schedule_start">Start</string>
+    <string name="schedule_end">End</string>
+    <string name="title_activity_add"> </string>
+    <string name="schedule_no_title">(No title)</string>
+    <string name="schedule_date_invalid_message">Change the start time to be before the end of the event.</string>
+
+    <string name="time_period_separator">-</string>
+    <string name="action_search">search</string>
+    <string name="title_activity_edit_schedule" translatable="false">EditScheduleActivity</string>
+    <string name="delete_schedule_confirm_message">Delete this event?</string>
+
+    <string name="alarm_type_no_alarm">No alert</string>
+    <string name="alarm_type_10_minutes_before">10 minutes before</string>
+    <string name="alarm_type_30_minutes_before">30 minutes before</string>
+    <string name="alarm_type_1_hour_before">1 hour before</string>
+    <string name="alarm_type_custom">Custom&#8230;</string>
+
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">CANCEL</string>
+    <string name="alarm_alert_title">aha,something you need to do</string>
+
+    <string name="schedule_type_all">All</string>
+    <string name="schedule_type_default">Default</string>
+    <string name="schedule_type_meeting">Meeting</string>
+    <string name="schedule_type_entertainment">Entertainment</string>
+    <string name="schedule_type_date">Date</string>
+    <string name="schedule_done">Done</string>
+    <string name="title_activity_search_schedule" translatable="false">SearchScheduleActivity</string>
+
+    <string name="action_share">Share</string>
+    <string name="share_to">share ToDoList with</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_add">Add</string>
+
+    <string name="alarm_notification">you have something to do in ToDoList</string>
+
+    <string name="settings_ringtones">ringtone</string>
+    <string name="settings_alarm_volume">alarm volume</string>
+    <string name="settings_alarm_duration">alarm duration</string>
+    <string name="settings_about">about</string>
+
+    <string name="settings_alarm_ringtones_title">choose ringtone</string>
+    <string name="settings_alarm_volume_title">set alarm volume</string>
+    <string name="settings_alarm_duration_title">set alarm duration time</string>
+    <string name="settings_about_todolist">about TodoList</string>
+
+    <string name="settings_alarm_ringtones_sum">choose your favorite ringtone</string>
+    <string name="settings_alarm_volume_sum">set alarm volume</string>
+    <string name="settings_alarm_duration_sum">set alarm duration time</string>
+    <string name="settings_about_sum">know more about TodoList</string>
+
+    <string name="settings_alarm_volume_default">1</string>
+    <string name="settings_alarm_duration_default">90</string>
+
+
+    <string name="settings_alarm_volume_key" translatable="false">alarm_volume</string>
+    <string name="settings_alarm_duration_key" translatable="false">alarm_duration</string>
+    <string name="settings_alarm_ringtone_key" translatable="false">alarm_ringtone</string>
+
+    <string name="about_todolist">Todo List is a light APP to record \n
+    what you want to do in your daily life. You can add,edit and delete\n
+    your own to-do-list easily. It is mainly developed by @TianXing Li and\
+    @ZhanNeng wang @XuNing</string>
+
+    <string name="share_result_success">Share Success</string>
+    <string name="share_result_cancel">User Cancel Share</string>
+    <string name="share_result_auth_deny">Authentication Failure</string>
+    <string name="share_result_unknown">Share Failure</string>
+
+    <string name="weixin">WebChat</string>
+    <string name="weibo">Sina Weibo</string>
+    <string name="install_info">is not installed!</string>
+    <string name="start_schedule">I just create a new schedule: </string>
+    <string name="finish_schedule">I just complete a schedule: </string>
+    <string name="come_on">,come on!</string>
+
+    <string name="more_schedule_list_view">List View</string>
+    <string name="more_schedule_grid_view">Grid View</string>
+
+</resources>
